@@ -1,4 +1,4 @@
-# Image Recognition Service
+# Image Recognition as a Service
 
 ## Problem Description 📋
 * The objective of the project is to create a web application that can adjust its capacity based on the incoming traffic it receives. 
